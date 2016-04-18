@@ -1,0 +1,1412 @@
+<?xml version="1.0" ?>
+<bibtex:file xmlns:bibtex="http://bibtexml.sf.net/">
+<!-- This file was exported from JabRef jabref.sf.net -->
+<!-- 2006-01-17 added DOI XML character formatting, because DOI can contain &lt; and &gt; -->
+
+<bibtex:entry id="Verbitsky2">
+  <bibtex:article>
+    <bibtex:author>Amerik&#44; E. and Verbitsky&#44; M.</bibtex:author>
+
+    <bibtex:title>Rational curves on hyperkahler manifolds</bibtex:title>
+
+    <bibtex:journal>ArXiv e&#45;prints</bibtex:journal>
+
+    <bibtex:year>2014</bibtex:year>
+
+    <bibtex:month>January</bibtex:month>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    <bibtex:keywords>Mathematics &#45; Algebraic Geometry</bibtex:keywords>
+
+
+
+
+
+  </bibtex:article>
+</bibtex:entry>
+<bibtex:entry id="Barlet_Howto">
+  <bibtex:incollection>
+    <bibtex:author>Barlet&#44; Daniel</bibtex:author>
+
+    <bibtex:title>How to use the cycle space in complex geometry</bibtex:title>
+    <bibtex:booktitle>Several complex variables (Berkeley&#44; CA&#44; 1995&#x2013;1996)</bibtex:booktitle>
+
+    <bibtex:publisher>Cambridge Univ. Press&#44; Cambridge</bibtex:publisher>
+    <bibtex:year>1999</bibtex:year>
+    <bibtex:volume>37</bibtex:volume>
+
+
+    <bibtex:pages>25&#x2013;42</bibtex:pages>
+
+
+    <bibtex:series>Math. Sci. Res. Inst. Publ.</bibtex:series>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  </bibtex:incollection>
+</bibtex:entry>
+<bibtex:entry id="Barlet_Cycles">
+  <bibtex:incollection>
+    <bibtex:author>Barlet&#44; Daniel</bibtex:author>
+
+    <bibtex:title>Espace analytique r\&#39;eduit des cycles analytiques complexes compacts d&#39;un espace analytique complexe de dimension finie</bibtex:title>
+    <bibtex:booktitle>Fonctions de plusieurs variables complexes&#44; II (S\&#39;em. Fran\c cois Norguet&#44; 1974&#x2013;1975)</bibtex:booktitle>
+
+    <bibtex:publisher>Springer&#44; Berlin</bibtex:publisher>
+    <bibtex:year>1975</bibtex:year>
+
+
+
+    <bibtex:pages>1&#x2013;158. Lecture Notes in Math., Vol. 482</bibtex:pages>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  </bibtex:incollection>
+</bibtex:entry>
+<bibtex:entry id="Brunella">
+  <bibtex:article>
+    <bibtex:author>Brunella&#44; Marco</bibtex:author>
+
+    <bibtex:title>Feuilletages holomorphes sur les surfaces complexes compactes</bibtex:title>
+
+    <bibtex:journal>Annales scientifiques de l&#39;&#201;cole Normale Sup&#233;rieure</bibtex:journal>
+    <bibtex:publisher>Soci&#233;t&#233; math&#233;matique de France</bibtex:publisher>
+    <bibtex:year>1997</bibtex:year>
+    <bibtex:volume>30</bibtex:volume>
+
+
+    <bibtex:pages>569-594</bibtex:pages>
+    <bibtex:number>5</bibtex:number>
+
+
+
+
+
+
+
+
+    <bibtex:url>http://eudml.org/doc/82443</bibtex:url>
+
+
+
+
+
+
+    <bibtex:keywords>holomorphic foliations; compact complex surfaces</bibtex:keywords>
+
+
+
+
+
+  </bibtex:article>
+</bibtex:entry>
+<bibtex:entry id="Buchdahl_RdR">
+  <bibtex:article>
+    <bibtex:author>Buchdahl&#44; N.</bibtex:author>
+
+    <bibtex:title>On the relative de Rham sequence</bibtex:title>
+
+    <bibtex:journal>Proc. Amer. Math. Soc.</bibtex:journal>
+
+    <bibtex:year>1983</bibtex:year>
+    <bibtex:volume>87</bibtex:volume>
+
+
+    <bibtex:pages>363&#x2013;366</bibtex:pages>
+    <bibtex:number>2</bibtex:number>
+
+
+
+
+
+
+
+
+    <bibtex:url>http://dx.doi.org/10.2307/2043718</bibtex:url>
+    <bibtex:doi>10.2307/2043718</bibtex:doi>
+
+
+
+
+
+
+
+
+
+
+
+  </bibtex:article>
+</bibtex:entry>
+<bibtex:entry id="Buchdahl">
+  <bibtex:article>
+    <bibtex:author>Buchdahl&#44; N. P.</bibtex:author>
+
+    <bibtex:title>Analysis on analytic spaces and non&#45;self&#45;dual Yang&#45;Mills fields</bibtex:title>
+
+    <bibtex:journal>Trans. Amer. Math. Soc.</bibtex:journal>
+
+    <bibtex:year>1985</bibtex:year>
+    <bibtex:volume>288</bibtex:volume>
+
+
+    <bibtex:pages>431&#x2013;469</bibtex:pages>
+    <bibtex:number>2</bibtex:number>
+
+
+
+
+
+
+
+
+    <bibtex:url>http://dx.doi.org/10.2307/1999947</bibtex:url>
+    <bibtex:doi>10.2307/1999947</bibtex:doi>
+
+
+
+
+
+
+
+
+
+
+
+  </bibtex:article>
+</bibtex:entry>
+<bibtex:entry id="CampanaABC">
+  <bibtex:unpublished>
+    <bibtex:author>Camapana</bibtex:author>
+
+    <bibtex:title>Sur la conjecture abc&#44; version corps de fonctions d&#39;Oesterle</bibtex:title>
+
+
+
+    <bibtex:year>2007</bibtex:year>
+
+    <bibtex:month>March</bibtex:month>
+
+
+
+
+
+
+
+
+
+
+
+    <bibtex:url>http://arxiv.org/abs/math/0703502v2</bibtex:url>
+
+
+
+
+
+
+
+
+
+
+
+
+  </bibtex:unpublished>
+</bibtex:entry>
+<bibtex:entry id="Campana">
+  <bibtex:article>
+    <bibtex:author>Campana&#44; F.</bibtex:author>
+
+    <bibtex:title>An application of twistor theory to the non&#45;hyperbolicity of certain compact symplectic K&#228;hler manifolds.</bibtex:title>
+
+    <bibtex:journal>Journal f&#252;r die reine und angewandte Mathematik</bibtex:journal>
+
+    <bibtex:year>1992</bibtex:year>
+    <bibtex:volume>425</bibtex:volume>
+
+
+    <bibtex:pages>1-8</bibtex:pages>
+
+
+
+
+
+
+
+
+
+    <bibtex:url>http://eudml.org/doc/153394</bibtex:url>
+
+
+
+
+
+
+
+
+
+
+
+
+  </bibtex:article>
+</bibtex:entry>
+<bibtex:entry id="Campana1980">
+  <bibtex:article>
+    <bibtex:author>Campana&#44; F.</bibtex:author>
+
+    <bibtex:title>Alg&#233;bricit&#233; et compacit&#233; dans l&#39;espace des cycles d&#39;un espace analytique complexe.</bibtex:title>
+
+    <bibtex:journal>Mathematische Annalen</bibtex:journal>
+
+    <bibtex:year>1980</bibtex:year>
+    <bibtex:volume>251</bibtex:volume>
+
+
+    <bibtex:pages>7-18</bibtex:pages>
+
+
+
+
+
+
+
+
+
+    <bibtex:url>http://eudml.org/doc/163420</bibtex:url>
+
+
+
+
+
+
+    <bibtex:keywords>space of cycles; algebraic analytic space; Moisezon space; bimeromorphic mapping to Grassmannian</bibtex:keywords>
+
+
+
+
+
+  </bibtex:article>
+</bibtex:entry>
+<bibtex:entry id="Cerveau">
+  <bibtex:book>
+    <bibtex:author>Cano&#44; Felipe and Cerveau&#44; Dominique and D&#x00E9;serti&#44; Julie</bibtex:author>
+
+    <bibtex:title>Th&#x00E9;orie &#x00E9;l&#x00E9;mentaire des feuilletages holomorphes singuliers</bibtex:title>
+
+
+    <bibtex:publisher>Belin</bibtex:publisher>
+    <bibtex:year>2013</bibtex:year>
+
+
+
+    <bibtex:pages>208 p.</bibtex:pages>
+
+
+    <bibtex:series>Echelles</bibtex:series>
+
+
+
+
+
+
+    <bibtex:url>https://hal.archives&#45;ouvertes.fr/hal&#45;00805694</bibtex:url>
+
+
+
+
+
+
+    <bibtex:keywords>feuilletage holomorphe</bibtex:keywords>
+
+
+
+
+
+  </bibtex:book>
+</bibtex:entry>
+<bibtex:entry id="Demailly">
+  <bibtex:book>
+    <bibtex:author>Jean&#45;Pierre Demailly</bibtex:author>
+
+    <bibtex:title>Complex Analytic and Differential Geometry</bibtex:title>
+
+
+
+    <bibtex:year>2002</bibtex:year>
+
+
+
+
+
+
+
+
+
+
+
+
+
+    <bibtex:url>www&#45;fourier.ujf&#45;grenoble.fr/&#126;demailly/manuscripts/agbook.pdf</bibtex:url>
+
+
+
+
+
+
+
+
+
+
+
+
+  </bibtex:book>
+</bibtex:entry>
+<bibtex:entry id="Hessian">
+  <bibtex:unpublished>
+    <bibtex:author>Deschamps&#44; Guillaume and Le Du&#44; No&#235;l and Mourougane&#44; Christophe</bibtex:author>
+
+    <bibtex:title>Hessian of the Natural Hermitian Form on Twistor Spaces</bibtex:title>
+
+
+
+    <bibtex:year>2013</bibtex:year>
+
+    <bibtex:month>Oct</bibtex:month>
+
+
+
+
+
+
+
+
+
+
+
+    <bibtex:url>http://arxiv.org/abs/1202.0183</bibtex:url>
+
+
+
+
+
+
+
+
+
+
+
+
+  </bibtex:unpublished>
+</bibtex:entry>
+<bibtex:entry id="TwistorThED">
+  <bibtex:article>
+    <bibtex:author>Dunajski&#44; Maciej</bibtex:author>
+
+    <bibtex:title>Twistor theory and differential equations</bibtex:title>
+
+    <bibtex:journal>Journal of Physics A Mathematical General</bibtex:journal>
+
+    <bibtex:year>2009</bibtex:year>
+    <bibtex:volume>42</bibtex:volume>
+    <bibtex:month>October</bibtex:month>
+
+    <bibtex:pages>4004</bibtex:pages>
+
+
+
+
+
+
+
+
+
+
+    <bibtex:doi>10.1088/1751&#45;8113/42/40/404004</bibtex:doi>
+    <bibtex:eid>404004</bibtex:eid>
+
+
+
+
+
+
+
+
+
+
+  </bibtex:article>
+</bibtex:entry>
+<bibtex:entry id="LeBrun">
+  <bibtex:article>
+    <bibtex:author>Eastwood&#44; Michael and LeBrun&#44; Claude</bibtex:author>
+
+    <bibtex:title>Fattening complex manifolds: curvature and Kodaira&#45;Spencer maps</bibtex:title>
+
+    <bibtex:journal>J. Geom. Phys.</bibtex:journal>
+
+    <bibtex:year>1992</bibtex:year>
+    <bibtex:volume>8</bibtex:volume>
+
+
+    <bibtex:pages>123&#x2013;146</bibtex:pages>
+    <bibtex:number>1&#45;4</bibtex:number>
+
+
+
+
+
+
+
+
+    <bibtex:url>http://dx.doi.org/10.1016/0393&#45;0440(92)90045&#45;3</bibtex:url>
+    <bibtex:doi>10.1016/0393&#45;0440(92)90045&#45;3</bibtex:doi>
+
+
+
+
+
+
+
+
+
+
+
+  </bibtex:article>
+</bibtex:entry>
+<bibtex:entry id="EastwoodSinger">
+  <bibtex:article>
+    <bibtex:author>Eastwood&#44; Michael G. and Singer&#44; Michael A.</bibtex:author>
+
+    <bibtex:title>The Fr&#246;hlicher spectral sequence on a twistor space</bibtex:title>
+
+    <bibtex:journal>J. Differential Geom.</bibtex:journal>
+    <bibtex:publisher>Lehigh University</bibtex:publisher>
+    <bibtex:year>1993</bibtex:year>
+    <bibtex:volume>38</bibtex:volume>
+
+
+    <bibtex:pages>653&#x2013;669</bibtex:pages>
+    <bibtex:number>3</bibtex:number>
+
+
+
+
+
+
+
+
+    <bibtex:url>http://projecteuclid.org/euclid.jdg/1214454485</bibtex:url>
+
+
+
+
+
+
+
+
+
+
+
+
+  </bibtex:article>
+</bibtex:entry>
+<bibtex:entry id="FN_LeviPb">
+  <bibtex:article>
+    <bibtex:author>Fornaess&#44; J.E. and Narasimhan&#44; R.</bibtex:author>
+
+    <bibtex:title>The Levi Problem on Complex Spaces with Singularities.</bibtex:title>
+
+    <bibtex:journal>Mathematische Annalen</bibtex:journal>
+
+    <bibtex:year>1980</bibtex:year>
+    <bibtex:volume>248</bibtex:volume>
+
+
+    <bibtex:pages>47-72</bibtex:pages>
+
+
+
+
+
+
+
+
+
+    <bibtex:url>http://eudml.org/doc/163367</bibtex:url>
+
+
+
+
+
+
+    <bibtex:keywords>Levi problem; complex spaces; singularities; Stein space; domain of holomorphy; plurisubharmonic</bibtex:keywords>
+
+
+
+
+
+  </bibtex:article>
+</bibtex:entry>
+<bibtex:entry id="Fujiki">
+  <bibtex:misc>
+    <bibtex:author>Fujiki&#44; Akira</bibtex:author>
+
+    <bibtex:title>Nagata threefold and twistor space.</bibtex:title>
+
+
+
+    <bibtex:year>1998</bibtex:year>
+
+
+
+
+
+
+
+
+
+
+
+    <bibtex:howpublished>Quaternionic structures in mathematics and physics (Trieste&#44; 1994)</bibtex:howpublished>
+    <bibtex:abstract>Author&#39;s abstract: &#96;&#96;We shall give a twistorial description of a certain threefold constructed by \it M. Nagata [Ill. J. Math. 2&#44; 490&#45;498 (1958; Zbl 0081.37503)] in quite a different context. We also consider its higher&#45;dimensional analogue. This leads us to a formulation of a general result on the partial compactification of certain class of hyper&#45;K\&#34;ahler manifolds&#39;&#39;.</bibtex:abstract>
+
+
+
+
+
+
+
+    <bibtex:keywords>threefold; hyper&#45;K\&#34;ahler manifolds</bibtex:keywords>
+
+
+
+
+
+  </bibtex:misc>
+</bibtex:entry>
+<bibtex:entry id="Godbillon1969">
+  <bibtex:book>
+    <bibtex:author>Godbillon&#44; C.</bibtex:author>
+
+    <bibtex:title>G&#x00E9;om&#x00E9;trie diff&#x00E9;rentielle et m&#x00E9;canique analytique.</bibtex:title>
+
+
+    <bibtex:publisher>Hermann</bibtex:publisher>
+    <bibtex:year>1969</bibtex:year>
+
+
+
+
+
+
+    <bibtex:series>Collection M&#x00E9;thodes</bibtex:series>
+
+
+
+
+
+
+    <bibtex:url>http://books.google.fr/books&#63;id=0VrvAAAAMAAJ</bibtex:url>
+
+
+
+
+
+
+
+
+
+
+
+
+  </bibtex:book>
+</bibtex:entry>
+<bibtex:entry id="GHJ">
+  <bibtex:book>
+    <bibtex:author>Gross&#44; M. and Huybrechts&#44; D. and Joyce&#44; D.</bibtex:author>
+
+    <bibtex:title>Calabi&#45;Yau Manifolds and Related Geometries: Lectures at a Summer School in Nordfjordeid&#44; Norway&#44; June&#44; 2001</bibtex:title>
+
+
+    <bibtex:publisher>Springer Berlin Heidelberg</bibtex:publisher>
+    <bibtex:year>2003</bibtex:year>
+
+
+
+
+
+
+    <bibtex:series>Universitext (1979)</bibtex:series>
+
+
+
+
+
+
+    <bibtex:url>http://books.google.fr/books&#63;id=frKJmxAr2xUC</bibtex:url>
+
+
+
+
+
+
+
+
+
+
+
+
+  </bibtex:book>
+</bibtex:entry>
+<bibtex:entry id="Hitchin">
+  <bibtex:article>
+    <bibtex:author>Hitchin&#44; N. J.</bibtex:author>
+
+    <bibtex:title>Linear field equations on self&#45;dual spaces</bibtex:title>
+
+    <bibtex:journal>Proc. Roy. Soc. London Ser. A</bibtex:journal>
+
+    <bibtex:year>1980</bibtex:year>
+    <bibtex:volume>370</bibtex:volume>
+
+
+    <bibtex:pages>173&#x2013;191</bibtex:pages>
+    <bibtex:number>1741</bibtex:number>
+
+
+
+
+
+
+
+
+    <bibtex:url>http://dx.doi.org/10.1098/rspa.1980.0028</bibtex:url>
+    <bibtex:doi>10.1098/rspa.1980.0028</bibtex:doi>
+
+
+
+
+
+
+
+
+
+
+
+  </bibtex:article>
+</bibtex:entry>
+<bibtex:entry id="HKLR">
+  <bibtex:article>
+    <bibtex:author>Hitchin&#44; N. J. and Karlhede&#44; A. and Lindstr&#x00F6;m&#44; U. and Ro\vcek&#44; M.</bibtex:author>
+
+    <bibtex:title>Hyperkahler metrics and supersymmetry</bibtex:title>
+
+    <bibtex:journal>Comm. Math. Phys.</bibtex:journal>
+
+    <bibtex:year>1987</bibtex:year>
+    <bibtex:volume>108</bibtex:volume>
+
+
+    <bibtex:pages>535&#x2013;589</bibtex:pages>
+    <bibtex:number>4</bibtex:number>
+
+
+
+
+
+
+
+
+    <bibtex:url>http://projecteuclid.org/getRecord&#63;id=euclid.cmp/1104116624</bibtex:url>
+
+
+
+
+
+
+
+
+
+
+
+
+  </bibtex:article>
+</bibtex:entry>
+<bibtex:entry id="Hormander1973">
+  <bibtex:book>
+    <bibtex:author>Hormander&#44; L.</bibtex:author>
+
+    <bibtex:title>An Introduction to Complex Analysis in Several Variables</bibtex:title>
+
+
+    <bibtex:publisher>Elsevier Science</bibtex:publisher>
+    <bibtex:year>1973</bibtex:year>
+
+
+
+
+
+
+    <bibtex:series>North&#45;Holland Mathematical Library</bibtex:series>
+
+
+
+
+
+
+    <bibtex:url>http://books.google.fr/books&#63;id=MaM7AAAAQBAJ</bibtex:url>
+
+
+
+
+
+
+
+
+
+
+
+
+  </bibtex:book>
+</bibtex:entry>
+<bibtex:entry id="Lu">
+  <bibtex:article>
+    <bibtex:author>Kamenova&#44; Ljudmila and Lu&#44; Steven and Verbitsky&#44; Misha</bibtex:author>
+
+    <bibtex:title>Kobayashi pseudometric on hyperk\&#34;ahler manifolds</bibtex:title>
+
+    <bibtex:journal>J. Lond. Math. Soc. (2)</bibtex:journal>
+
+    <bibtex:year>2014</bibtex:year>
+    <bibtex:volume>90</bibtex:volume>
+
+
+    <bibtex:pages>436&#x2013;450</bibtex:pages>
+    <bibtex:number>2</bibtex:number>
+
+
+
+
+
+
+
+
+    <bibtex:url>http://dx.doi.org/10.1112/jlms/jdu038</bibtex:url>
+    <bibtex:doi>10.1112/jlms/jdu038</bibtex:doi>
+
+
+
+
+
+
+
+
+
+
+
+  </bibtex:article>
+</bibtex:entry>
+<bibtex:entry id="MR0253383">
+  <bibtex:incollection>
+    <bibtex:author>Malgrange&#44; B.</bibtex:author>
+
+    <bibtex:title>Sur l&#39;int\&#39;egrabilit\&#39;e des structures presque&#45;complexes</bibtex:title>
+    <bibtex:booktitle>Symposia Mathematica&#44; Vol. II (INDAM&#44; Rome&#44; 1968)</bibtex:booktitle>
+
+    <bibtex:publisher>Academic Press&#44; London</bibtex:publisher>
+    <bibtex:year>1969</bibtex:year>
+
+
+
+    <bibtex:pages>289&#x2013;296</bibtex:pages>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  </bibtex:incollection>
+</bibtex:entry>
+<bibtex:entry id="GIT">
+  <bibtex:book>
+    <bibtex:author>Mumford&#44; D. and Fogarty&#44; J. and Kirwan&#44; F.C.</bibtex:author>
+
+    <bibtex:title>Geometric Invariant Theory</bibtex:title>
+
+
+    <bibtex:publisher>Springer&#45;Verlag</bibtex:publisher>
+    <bibtex:year>1994</bibtex:year>
+
+
+
+
+
+    <bibtex:edition>3rd</bibtex:edition>
+    <bibtex:series>Ergebnisse der Mathematik und ihrer Grenzgebiete</bibtex:series>
+
+
+
+
+
+
+    <bibtex:url>http://books.google.fr/books&#63;id=dFlv3zn\&#95;2&#45;gC</bibtex:url>
+
+
+
+
+
+
+
+
+
+
+
+
+  </bibtex:book>
+</bibtex:entry>
+<bibtex:entry id="Nakajima">
+  <bibtex:article>
+    <bibtex:author>Nakajima&#44; Hiraku</bibtex:author>
+
+    <bibtex:title>Quiver varieties and Kac&#45;Moody algebras</bibtex:title>
+
+    <bibtex:journal>Duke Mathematical Journal</bibtex:journal>
+    <bibtex:publisher>Duke University Press</bibtex:publisher>
+    <bibtex:year>1998</bibtex:year>
+    <bibtex:volume>91</bibtex:volume>
+    <bibtex:month>02</bibtex:month>
+
+    <bibtex:pages>515&#x2013;560</bibtex:pages>
+    <bibtex:number>3</bibtex:number>
+
+
+
+
+
+
+
+
+    <bibtex:url>http://dx.doi.org/10.1215/S0012&#45;7094&#45;98&#45;09120&#45;7</bibtex:url>
+    <bibtex:doi>10.1215/S0012&#45;7094&#45;98&#45;09120&#45;7</bibtex:doi>
+
+
+
+
+
+
+
+
+
+
+
+  </bibtex:article>
+</bibtex:entry>
+<bibtex:entry id="Nirenberg1973">
+  <bibtex:book>
+    <bibtex:author>Nirenberg&#44; Louis</bibtex:author>
+
+    <bibtex:title>Lectures on Linear Partial Differential Equations</bibtex:title>
+
+
+
+    <bibtex:year>1973</bibtex:year>
+
+
+
+
+
+
+    <bibtex:series>Regional Conference Series in Mathematics&#44; No. 17</bibtex:series>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  </bibtex:book>
+</bibtex:entry>
+<bibtex:entry id="Penrose1976">
+  <bibtex:article>
+    <bibtex:author>Penrose&#44; Roger</bibtex:author>
+
+    <bibtex:title>Nonlinear gravitons and curved twistor theory</bibtex:title>
+
+    <bibtex:journal>General Relativity and Gravitation</bibtex:journal>
+
+    <bibtex:year>1976</bibtex:year>
+    <bibtex:volume>7</bibtex:volume>
+
+
+    <bibtex:pages>31&#x2013;52</bibtex:pages>
+    <bibtex:number>1</bibtex:number>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    <bibtex:note>The riddle of gravitation&#x2013;on the occasion of the 60th birthday of Peter G. Bergmann (Proc. Conf.&#44; Syracuse Univ.&#44; Syracuse&#44; N. Y.&#44; 1975)</bibtex:note>
+
+
+
+  </bibtex:article>
+</bibtex:entry>
+<bibtex:entry id="PenroseGraviton">
+  <bibtex:article>
+    <bibtex:author>Penrose&#44; Roger</bibtex:author>
+
+    <bibtex:title>Nonlinear gravitons and curved twistor theory</bibtex:title>
+
+    <bibtex:journal>General Relativity and Gravitation</bibtex:journal>
+
+    <bibtex:year>1976</bibtex:year>
+    <bibtex:volume>7</bibtex:volume>
+
+
+    <bibtex:pages>31&#x2013;52</bibtex:pages>
+    <bibtex:number>1</bibtex:number>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    <bibtex:note>The riddle of gravitation&#x2013;on the occasion of the 60th birthday of Peter G. Bergmann (Proc. Conf.&#44; Syracuse Univ.&#44; Syracuse&#44; N. Y.&#44; 1975)</bibtex:note>
+
+
+
+  </bibtex:article>
+</bibtex:entry>
+<bibtex:entry id="Penrose-Rindler">
+  <bibtex:book>
+    <bibtex:author>Penrose&#44; R. and Rindler&#44; W. and Landshoff&#44; P.</bibtex:author>
+
+    <bibtex:title>Spinors and Space&#45;Time: Volume 2&#44; Spinor and Twistor Methods in Space&#45;Time Geometry</bibtex:title>
+
+
+    <bibtex:publisher>Cambridge University Press</bibtex:publisher>
+    <bibtex:year>1988</bibtex:year>
+
+
+
+
+
+
+    <bibtex:series>Cambridge Monographs on Mathematical Physics</bibtex:series>
+
+
+
+
+
+
+    <bibtex:url>https://books.google.fr/books&#63;id=f0mgGmtx0GEC</bibtex:url>
+
+
+
+
+
+
+
+
+
+
+
+
+  </bibtex:book>
+</bibtex:entry>
+<bibtex:entry id="Salamon">
+  <bibtex:incollection>
+    <bibtex:author>Salamon&#44; Simon</bibtex:author>
+
+    <bibtex:title>Topics in four&#45;dimensional Riemannian geometry</bibtex:title>
+    <bibtex:booktitle>Geometry seminar &#96;&#96;Luigi Bianchi\/&#39;&#39; (Pisa&#44; 1982)</bibtex:booktitle>
+
+    <bibtex:publisher>Springer&#44; Berlin</bibtex:publisher>
+    <bibtex:year>1983</bibtex:year>
+    <bibtex:volume>1022</bibtex:volume>
+
+
+    <bibtex:pages>33&#x2013;124</bibtex:pages>
+
+
+    <bibtex:series>Lecture Notes in Math.</bibtex:series>
+
+
+
+
+
+
+    <bibtex:url>http://dx.doi.org/10.1007/BFb0071601</bibtex:url>
+    <bibtex:doi>10.1007/BFb0071601</bibtex:doi>
+
+
+
+
+
+
+
+
+
+
+
+  </bibtex:incollection>
+</bibtex:entry>
+<bibtex:entry id="Ast317">
+  <bibtex:article>
+    <bibtex:author>Olivier SCHIFFMANN</bibtex:author>
+
+    <bibtex:title>Vari&#233;t&#233;s carquois de Nakajima</bibtex:title>
+
+    <bibtex:journal>Ast&#233;risque</bibtex:journal>
+
+    <bibtex:year>2008</bibtex:year>
+    <bibtex:volume>317</bibtex:volume>
+    <bibtex:month>mars</bibtex:month>
+
+    <bibtex:pages>295-344</bibtex:pages>
+    <bibtex:number>976</bibtex:number>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  </bibtex:article>
+</bibtex:entry>
+<bibtex:entry id="Verbitsky_K3Stein">
+  <bibtex:article>
+    <bibtex:author>Verbitsky&#44; Misha</bibtex:author>
+
+    <bibtex:title>Rational curves and special metrics on twistor spaces</bibtex:title>
+
+    <bibtex:journal>Geom. Topol.</bibtex:journal>
+
+    <bibtex:year>2014</bibtex:year>
+    <bibtex:volume>18</bibtex:volume>
+
+
+    <bibtex:pages>897&#x2013;909</bibtex:pages>
+    <bibtex:number>2</bibtex:number>
+
+
+
+
+
+
+
+
+    <bibtex:url>http://dx.doi.org/10.2140/gt.2014.18.897</bibtex:url>
+    <bibtex:doi>10.2140/gt.2014.18.897</bibtex:doi>
+
+
+
+
+
+
+
+
+
+
+
+  </bibtex:article>
+</bibtex:entry>
+<bibtex:entry id="Verbitsky">
+  <bibtex:article>
+    <bibtex:author>Verbitsky&#44; M.</bibtex:author>
+
+    <bibtex:title>A global Torelli theorem for hyperkahler manifolds</bibtex:title>
+
+    <bibtex:journal>ArXiv e&#45;prints</bibtex:journal>
+
+    <bibtex:year>2009</bibtex:year>
+
+    <bibtex:month>August</bibtex:month>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    <bibtex:keywords>Mathematics &#45; Algebraic Geometry&#44; Mathematics &#45; Algebraic Topology&#44; Mathematics &#45; Differential Geometry&#44; 53C26&#44; 32G13</bibtex:keywords>
+
+
+
+
+
+  </bibtex:article>
+</bibtex:entry>
+<bibtex:entry id="Kaledin">
+  <bibtex:book>
+    <bibtex:author>Verbitsky&#44; M. and Kaledin&#44; D.</bibtex:author>
+
+    <bibtex:title>Hyperkahler Manifolds</bibtex:title>
+
+
+    <bibtex:publisher>International Press</bibtex:publisher>
+    <bibtex:year>1999</bibtex:year>
+
+
+
+
+
+
+    <bibtex:series>International Press mathematical physics series</bibtex:series>
+
+
+
+
+
+
+    <bibtex:url>http://books.google.fr/books&#63;id=6fdUAAAAYAAJ</bibtex:url>
+
+
+
+
+
+
+
+
+
+
+
+
+  </bibtex:book>
+</bibtex:entry>
+<bibtex:entry id="Voisin2002">
+  <bibtex:book>
+    <bibtex:author>Voisin&#44; C.</bibtex:author>
+
+    <bibtex:title>Th&#x00E9;orie de Hodge et g&#x00E9;om&#x00E9;trie alg&#x00E9;brique complexe</bibtex:title>
+
+
+    <bibtex:publisher>Soci&#x00E9;t&#x00E9; Math&#x00E9;matique de France</bibtex:publisher>
+    <bibtex:year>2002</bibtex:year>
+
+
+
+
+
+
+    <bibtex:series>Collection SMF</bibtex:series>
+
+
+
+
+
+
+    <bibtex:url>http://books.google.fr/books&#63;id=2DIZAQAAIAAJ</bibtex:url>
+
+
+
+
+
+
+
+
+
+
+
+
+  </bibtex:book>
+</bibtex:entry>
+<bibtex:entry id="Ward-Wells">
+  <bibtex:book>
+    <bibtex:author>Ward&#44; R.S. and Wells&#44; R.O.</bibtex:author>
+
+    <bibtex:title>Twistor Geometry and Field Theory</bibtex:title>
+
+
+    <bibtex:publisher>Cambridge University Press</bibtex:publisher>
+    <bibtex:year>1991</bibtex:year>
+
+
+
+
+
+
+    <bibtex:series>Cambridge Monographs on Mathematical Physics</bibtex:series>
+
+
+
+
+
+
+    <bibtex:url>https://books.google.fr/books&#63;id=\&#95;VDrKu4tvVsC</bibtex:url>
+
+
+
+
+
+
+
+
+
+
+
+
+  </bibtex:book>
+</bibtex:entry>
+<bibtex:entry id="Weil1971">
+  <bibtex:book>
+    <bibtex:author>Weil&#44; A.</bibtex:author>
+
+    <bibtex:title>Introduction &#x00E0; l&#39;&#x00E9;tude des vari&#x00E9;t&#x00E9;s k&#x00E4;hl&#x00E9;riennes</bibtex:title>
+
+
+    <bibtex:publisher>Hermann</bibtex:publisher>
+    <bibtex:year>1971</bibtex:year>
+
+
+
+
+    <bibtex:number>n&#176;&#126;1267</bibtex:number>
+
+    <bibtex:series>Actualit&#x00E9;s scientifiques et industrielles</bibtex:series>
+
+
+
+
+
+
+    <bibtex:url>http://books.google.fr/books&#63;id=ekfvAAAAMAAJ</bibtex:url>
+
+
+
+
+
+
+
+
+
+
+
+
+  </bibtex:book>
+</bibtex:entry>
+</bibtex:file>
