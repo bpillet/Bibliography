@@ -5,27 +5,28 @@
 
 <xsl:variable name="FULL" select="document('file:///home/basile/Git/Bibliography/full.xml')" />
 
-<xsl:template>
+<xsl:template match="/">
 <html>
     <head>
        <meta charset="utf-8"/>
        <link rel="stylesheet" media="screen and (min-width: 400px) and (max-width: 1000024px)" href="./style.css" type="text/css" />
        
-        <title>Bibliographie</title>
+       <title>Bibliographie</title>
        
     </head>
     <body>
    	<section>
-   	  <xsl:apply-templates select="$FULL"/>
-		</section>
+   	  <xsl:apply-templates select="$FULL/file"/>
+	</section>
     </body>
 </html>
 </xsl:template>
 
-  <xsl:template match="bibtex:entry">
-    <article>
-      <h3><xsl:value-of select="bibtex:author"/></h3>
-      <p><xsl:apply-templates/></p>
-    </article>
-  </xsl:template>
+<xsl:template match="bibtex:entry">
+  <article>
+    <h3><xsl:value-of select="./author"/></h3>
+    <p><xsl:apply-templates/></p>
+  </article>
+</xsl:template>
+
 </xsl:stylesheet>
