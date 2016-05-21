@@ -1,0 +1,12 @@
+#+TAGS: REFERENCE(r) DROPBOX(d) CALIBRE(c)
+
+* On the Atiyah-Hitchin-Drinfeld-Manin Vanishing Theorem for Cohomology Groups of Instanton Bundles :REFERENCE:DROPBOX:
+[2016-05-20 ven. 09:35]
+** Author 
+   J. H. Rawnsley
+** Liens
+   Dropbox
+** Sujet
+   Expression en coordonnées de la fibration twistorielle $\Pro^3 \to \S^4$
+
+
