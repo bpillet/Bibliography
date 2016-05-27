@@ -1,6 +1,6 @@
-#+TAGS: REFERENCE(r) DROPBOX(d) CALIBRE(c)
+#+TAGS: REFERENCE(r) DROPBOX(d) CALIBRE(c) FULLBIB(f)
 
-* On the Atiyah-Hitchin-Drinfeld-Manin Vanishing Theorem for Cohomology Groups of Instanton Bundles :REFERENCE:DROPBOX:
+* On the Atiyah-Hitchin-Drinfeld-Manin Vanishing Theorem for Cohomology Groups of Instanton Bundles :FULLBIB:REFERENCE:DROPBOX:
 [2016-05-20 ven. 09:35]
 ** Author 
    J. H. Rawnsley
