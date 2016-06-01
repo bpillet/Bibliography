@@ -9,4 +9,8 @@
 ** Sujet
    Expression en coordonnées de la fibration twistorielle $\Pro^3 \to \S^4$
 
+* TODO Ajouter complexification 		  :REFERENCE:CALIBRE:FULLBIB:
+[2016-06-01 mer. 15:47]
+
+Ajouter article (1 page) complexification
 
