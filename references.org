@@ -9,3 +9,22 @@
 ** Sujet
    Expression en coordonnées de la fibration twistorielle $\Pro^3 \to \S^4$
 
+* TODO Eastwood : Some remarks on nonabelian sheaf cohomology :REFERENCE:CALIBRE:FULLBIB:
+[2016-06-06 lun. 17:47]
+
+- Introuvable en ligne
+- Regarder à la BU
+
+Type: 	Book chapter
+Title: 	Some remarks on non-Abelian sheaf cohomology
+Author: 	Eastwood, Michael George
+Citation: 	Further advances in twistor theory. Vol. III, Curved twistor spaces / L.J. Mason, L.P. Hughston, P.Z. Kobak, and K. Pulverer (eds.), pp. 113-115
+Publisher: 	Chapman & Hall / CRC
+Issue Date: 	2001
+Series/Report no.: 	Chapman & Hall/CRC research notes in mathematics series ; 424
+ISBN: 	1584880473
+School/Discipline: 	School of Mathematical Sciences : Pure Mathematics
+RMID: 	0020073282
+Description (link): 	http://trove.nla.gov.au/work/34692578
+Appears in Collections:	Pure Mathematics publications
+
