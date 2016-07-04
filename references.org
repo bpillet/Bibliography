@@ -28,3 +28,9 @@ RMID: 	0020073282
 Description (link): 	http://trove.nla.gov.au/work/34692578
 Appears in Collections:	Pure Mathematics publications
 
+
+* DONE Kodaira : Completude family submanifolds  [2/2] :REFERENCE:CALIBRE:FULLBIB:ARCHIVE:
+- [X] full
+- [X] calibre
+
+
