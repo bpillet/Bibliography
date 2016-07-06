@@ -33,11 +33,12 @@ Appears in Collections:	Pure Mathematics publications
 - [X] full
 - [X] calibre
 
-* TODO [0/2] Campana espaces des cycles compact   :REFERENCE:CALIBRE:FULLBIB:
+* TODO [1/2] Campana espaces des cycles compact   :REFERENCE:CALIBRE:FULLBIB:
 [2016-07-06 mer. 11:54]
 
-- [ ] full
+- [X] full
 - [ ] calibre
+- [X] Téléchargé (Irmar)
 
 *Ne traite pas directement du cas hyperkahlérien*
  
@@ -60,11 +61,12 @@ Appears in Collections:	Pure Mathematics publications
 }
 #+END_SRC
 
-* TODO [0/2] Cycle Spaces, Several complex variables VII          :REFERENCE:
+* TODO [2/3] Cycle Spaces, Several complex variables VII          :REFERENCE:
 [2016-07-06 mer. 12:03]
 
-- [ ] full
+- [X] full
 - [ ] calibre
+- [X] Téléchargé (Irmar)
 
 
 #+BEGIN_SRC BIBTEX
@@ -84,15 +86,15 @@ Appears in Collections:	Pure Mathematics publications
 }
 #+END_SRC
 
-* TODO [0/3] Espace des twisteurs de classe $C$                   :REFERENCE:
+* TODO [2/3] Espace des twisteurs de classe $C$                   :REFERENCE:
 [2016-07-06 mer. 18:22]
 
 
-- [ ] full
+- [X] full
 - [ ] calibre
-- [ ] Téléchargé
+- [X] Téléchargé (Irmar)
 
-*là où il prouve que C n'est jamais compact dans le cas HK*
+*il n'a pas l'air de prouver que C n'est jamais compact dans le cas HK*
 
 #+BEGIN_SRC BIBTEX
 @article {MR1094468,
@@ -113,3 +115,8 @@ MRREVIEWER = {S. M. Salamon},
 }
 #+END_SRC
 
+* TODO [1/2] Lawson Michelsohn /Spin Geometry/                    :REFERENCE:
+[2016-07-04 lun. 18:03]
+
+- [X] full
+- [ ] calibre ?
