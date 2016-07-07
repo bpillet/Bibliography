@@ -120,3 +120,44 @@ MRREVIEWER = {S. M. Salamon},
 
 - [X] full
 - [ ] calibre ?
+
+* TODO [0/0] EASTWOOD : De Rham symplectique                      :REFERENCE:
+[2016-07-07 jeu. 12:27]
+
+- [ ] full
+- [ ] calibre
+- [ ] Téléchargé (IRMAR) ?
+
+** Blabla
+
+Le complexe de DR sur une variété symplectique réelle se découpe en 2 complexes de taille $n$, qu'on recolle par un opérateur différentiel d'ordre $2$.
+
+** Eastwood Slovàk
+
+MR2103078 Reviewed Eastwood, Michael; Slovák, Jan Preferred parameterisations on homogeneous curves. Comment. Math. Univ. Carolin. 45 (2004), no. 4, 597–606. (Reviewer: A. Rod Gover) 53C30 (17B66)
+PDF Clipboard Journal Article
+
+MR1483772 Reviewed Eastwood, Michael; Slovák, Jan Semiholonomic Verma modules. J. Algebra 197 (1997), no. 2, 424–448. (Reviewer: William M. McGovern) 22E46 (17B35)
+PDF Clipboard Journal Article 
+
+** Eastwood Goldschmidt
+
+#+BEGIN_SRC BIBTEX
+@article {MR3031862,
+    AUTHOR = {Eastwood, Michael and Goldschmidt, Hubert},
+     TITLE = {Zero-energy fields on complex projective space},
+   JOURNAL = {J. Differential Geom.},
+  FJOURNAL = {Journal of Differential Geometry},
+    VOLUME = {94},
+      YEAR = {2013},
+    NUMBER = {1},
+     PAGES = {129--157},
+      ISSN = {0022-040X},
+     CODEN = {JDGEAS},
+   MRCLASS = {53C65 (32C38 44A12 53C22 53C55 58J10)},
+  MRNUMBER = {3031862},
+MRREVIEWER = {Andreas Cap},
+       URL = {http://projecteuclid.org/euclid.jdg/1361889063},
+}
+#+END_SRC
+
