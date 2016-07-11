@@ -1,4 +1,6 @@
 #+TAGS: REFERENCE(r) DROPBOX(d) CALIBRE(c) FULLBIB(f)
+#+TODO: TOADD | DONE
+#+TODO: TOREAD | DONE
 
 * On the Atiyah-Hitchin-Drinfeld-Manin Vanishing Theorem for Cohomology Groups of Instanton Bundles :FULLBIB:REFERENCE:DROPBOX:
 [2016-05-20 ven. 09:35]
@@ -9,7 +11,7 @@
 ** Sujet
    Expression en coordonnées de la fibration twistorielle $\Pro^3 \to \S^4$
 
-* TODO Eastwood : Some remarks on nonabelian sheaf cohomology :REFERENCE:CALIBRE:FULLBIB:
+* TOADD Eastwood : Some remarks on nonabelian sheaf cohomology :REFERENCE:CALIBRE:FULLBIB:
 [2016-06-06 lun. 17:47]
 
 - Introuvable en ligne
@@ -33,7 +35,7 @@ Appears in Collections:	Pure Mathematics publications
 - [X] full
 - [X] calibre
 
-* TODO [1/2] Campana espaces des cycles compact   :REFERENCE:CALIBRE:FULLBIB:
+* TOADD [1/2] Campana espaces des cycles compact  :REFERENCE:CALIBRE:FULLBIB:
 [2016-07-06 mer. 11:54]
 
 - [X] full
@@ -61,7 +63,7 @@ Appears in Collections:	Pure Mathematics publications
 }
 #+END_SRC
 
-* TODO [2/3] Cycle Spaces, Several complex variables VII          :REFERENCE:
+* TOADD [2/3] Cycle Spaces, Several complex variables VII         :REFERENCE:
 [2016-07-06 mer. 12:03]
 
 - [X] full
@@ -86,7 +88,7 @@ Appears in Collections:	Pure Mathematics publications
 }
 #+END_SRC
 
-* TODO [2/3] Espace des twisteurs de classe $C$                   :REFERENCE:
+* TOADD [2/3] Espace des twisteurs de classe $C$                  :REFERENCE:
 [2016-07-06 mer. 18:22]
 
 
@@ -115,13 +117,13 @@ MRREVIEWER = {S. M. Salamon},
 }
 #+END_SRC
 
-* TODO [1/2] Lawson Michelsohn /Spin Geometry/                    :REFERENCE:
+* TOADD [1/2] Lawson Michelsohn /Spin Geometry/                   :REFERENCE:
 [2016-07-04 lun. 18:03]
 
 - [X] full
 - [ ] calibre ?
 
-* TODO [0/0] EASTWOOD : De Rham symplectique                      :REFERENCE:
+* TOADD [0/0] EASTWOOD : De Rham symplectique                     :REFERENCE:
 [2016-07-07 jeu. 12:27]
 
 - [ ] full
@@ -161,3 +163,9 @@ MRREVIEWER = {Andreas Cap},
 }
 #+END_SRC
 
+* TOREAD BEAUVILLE : Holomorphic symplectic geometry: a problem list :READ:REFERENCE:
+[2016-07-11 lun. 11:27]
+
+http://arxiv.org/abs/1002.4321
+
+- Partie sur les structures de contact, lien avec Honda : fibré fondamental
