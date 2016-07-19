@@ -117,6 +117,13 @@ MRREVIEWER = {S. M. Salamon},
 }
 #+END_SRC
 
+* TOADD [0/3] Thèse de Guillaume Deschamps                        :REFERENCE:
+[2016-07-19 mar. 22:53]
+
+- [ ] full
+- [ ] calibre
+- [ ] dwl (Irmar)
+
 * TOADD [1/2] Lawson Michelsohn /Spin Geometry/                   :REFERENCE:
 [2016-07-04 lun. 18:03]
 
