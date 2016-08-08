@@ -35,87 +35,90 @@ Appears in Collections:	Pure Mathematics publications
 - [X] full
 - [X] calibre
 
-* TOADD [1/2] Campana espaces des cycles compact  :REFERENCE:CALIBRE:FULLBIB:
-[2016-07-06 mer. 11:54]
+* Campana cycles compacts
 
-- [X] full
-- [ ] calibre
-- [X] Téléchargé (Irmar)
+** TOADD [1/2]  Espaces de twisteurs dont l'espace des cycles a ses composantes irréductibles compactes :REFERENCE:CALIBRE:FULLBIB:
+ [2016-07-06 mer. 11:54]
 
-*Ne traite pas directement du cas hyperkahlérien*
+ - [X] full
+ - [ ] calibre
+ - [X] Téléchargé (Irmar)
+
+ *Ne traite pas directement du cas hyperkahlérien*
  
-#+BEGIN_SRC BIBTEX
-@article {MR999456,
-    AUTHOR = {Campana, Fr{\'e}d{\'e}ric},
-     TITLE = {Espaces de twisteurs dont l'espace des cycles a ses
-              composantes irr\'eductibles compactes},
-   JOURNAL = {C. R. Acad. Sci. Paris S\'er. I Math.},
-  FJOURNAL = {Comptes Rendus des S\'eances de l'Acad\'emie des Sciences.
-              S\'erie I. Math\'ematique},
-    VOLUME = {308},
-      YEAR = {1989},
-    NUMBER = {19},
-     PAGES = {565--568},
-      ISSN = {0249-6291},
-     CODEN = {CASMEI},
-   MRCLASS = {32G10 (32J10 32L25 53C21)},
-  MRNUMBER = {999456},
-}
-#+END_SRC
+ #+BEGIN_SRC BIBTEX
+ @article {MR999456,
+     AUTHOR = {Campana, Fr{\'e}d{\'e}ric},
+      TITLE = {Espaces de twisteurs dont l'espace des cycles a ses
+               composantes irr\'eductibles compactes},
+    JOURNAL = {C. R. Acad. Sci. Paris S\'er. I Math.},
+   FJOURNAL = {Comptes Rendus des S\'eances de l'Acad\'emie des Sciences.
+               S\'erie I. Math\'ematique},
+     VOLUME = {308},
+       YEAR = {1989},
+     NUMBER = {19},
+      PAGES = {565--568},
+       ISSN = {0249-6291},
+      CODEN = {CASMEI},
+    MRCLASS = {32G10 (32J10 32L25 53C21)},
+   MRNUMBER = {999456},
+ }
+ #+END_SRC
 
-* TOADD [2/3] Cycle Spaces, Several complex variables VII         :REFERENCE:
-[2016-07-06 mer. 12:03]
-
-- [X] full
-- [ ] calibre
-- [X] Téléchargé (Irmar)
+** TOADD [2/3] Espace des twisteurs de classe $C$                 :REFERENCE:
+ [2016-07-06 mer. 18:22]
 
 
-#+BEGIN_SRC BIBTEX
-@incollection {MR1326625,
-    AUTHOR = {Campana, F. and Peternell, Th.},
-     TITLE = {Cycle spaces},
- BOOKTITLE = {Several complex variables, {VII}},
-    SERIES = {Encyclopaedia Math. Sci.},
-    VOLUME = {74},
-     PAGES = {319--349},
- PUBLISHER = {Springer, Berlin},
-      YEAR = {1994},
-   MRCLASS = {32G10 (32F10)},
-  MRNUMBER = {1326625},
-       DOI = {10.1007/978-3-662-09873-8_9},
-       URL = {http://dx.doi.org/10.1007/978-3-662-09873-8_9},
-}
-#+END_SRC
+ - [X] full
+ - [ ] calibre
+ - [X] Téléchargé (Irmar)
 
-* TOADD [2/3] Espace des twisteurs de classe $C$                  :REFERENCE:
-[2016-07-06 mer. 18:22]
+ Il prouve que $C$ n'est jamais compact. (Compact entraine $Z$ de classe C entraine $M$ conformément plate entraine $M$ sphère ou somme connexe de plans projectifs)
+
+ #+BEGIN_SRC BIBTEX
+ @article {MR1094468,
+     AUTHOR = {Campana, F.},
+      TITLE = {On twistor spaces of the class {$\scr C$}},
+    JOURNAL = {J. Differential Geom.},
+   FJOURNAL = {Journal of Differential Geometry},
+     VOLUME = {33},
+       YEAR = {1991},
+     NUMBER = {2},
+      PAGES = {541--549},
+       ISSN = {0022-040X},
+      CODEN = {JDGEAS},
+    MRCLASS = {32L25 (32J20 53C25)},
+   MRNUMBER = {1094468},
+ MRREVIEWER = {S. M. Salamon},
+        URL = {http://projecteuclid.org/euclid.jdg/1214446329},
+ }
+ #+END_SRC
 
 
-- [X] full
-- [ ] calibre
-- [X] Téléchargé (Irmar)
+** TOADD [2/3] Cycle Spaces, Several complex variables VII        :REFERENCE:
+ [2016-07-06 mer. 12:03]
 
-*il n'a pas l'air de prouver que C n'est jamais compact dans le cas HK*
+ - [X] full
+ - [ ] calibre
+ - [X] Téléchargé (Irmar)
 
-#+BEGIN_SRC BIBTEX
-@article {MR1094468,
-    AUTHOR = {Campana, F.},
-     TITLE = {On twistor spaces of the class {$\scr C$}},
-   JOURNAL = {J. Differential Geom.},
-  FJOURNAL = {Journal of Differential Geometry},
-    VOLUME = {33},
-      YEAR = {1991},
-    NUMBER = {2},
-     PAGES = {541--549},
-      ISSN = {0022-040X},
-     CODEN = {JDGEAS},
-   MRCLASS = {32L25 (32J20 53C25)},
-  MRNUMBER = {1094468},
-MRREVIEWER = {S. M. Salamon},
-       URL = {http://projecteuclid.org/euclid.jdg/1214446329},
-}
-#+END_SRC
+
+ #+BEGIN_SRC BIBTEX
+ @incollection {MR1326625,
+     AUTHOR = {Campana, F. and Peternell, Th.},
+      TITLE = {Cycle spaces},
+  BOOKTITLE = {Several complex variables, {VII}},
+     SERIES = {Encyclopaedia Math. Sci.},
+     VOLUME = {74},
+      PAGES = {319--349},
+  PUBLISHER = {Springer, Berlin},
+       YEAR = {1994},
+    MRCLASS = {32G10 (32F10)},
+   MRNUMBER = {1326625},
+        DOI = {10.1007/978-3-662-09873-8_9},
+        URL = {http://dx.doi.org/10.1007/978-3-662-09873-8_9},
+ }
+ #+END_SRC
 
 * TOADD [0/3] Thèse de Guillaume Deschamps                        :REFERENCE:
 [2016-07-19 mar. 22:53]
