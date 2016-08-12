@@ -179,3 +179,11 @@ MRREVIEWER = {Andreas Cap},
 http://arxiv.org/abs/1002.4321
 
 - Partie sur les structures de contact, lien avec Honda : fibré fondamental
+
+* TODO [0/3] Le Brun : Thickenings                                :REFERENCE:
+[2016-08-12 ven. 15:16]
+
+- [ ] full
+- [ ] calibre
+- [ ] dwl (Irmar)
+
