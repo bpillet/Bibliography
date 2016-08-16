@@ -179,3 +179,13 @@ MRREVIEWER = {Andreas Cap},
 http://arxiv.org/abs/1002.4321
 
 - Partie sur les structures de contact, lien avec Honda : fibré fondamental
+* REFILE
+** TOADD [0/3] Mumford : Abelian varieties                        :REFERENCE:
+[2016-08-16 mar. 08:40]
+
+- [ ] full
+- [ ] calibre
+- [ ] dwl (Irmar)
+
+Formule de la projection et "changement de base"
+
