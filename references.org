@@ -179,13 +179,23 @@ MRREVIEWER = {Andreas Cap},
 http://arxiv.org/abs/1002.4321
 
 - Partie sur les structures de contact, lien avec Honda : fibré fondamental
+
+
+* TODO [0/3] Le Brun : Thickenings                                :REFERENCE:
+[2016-08-12 ven. 15:16]
+
+- [ ] full
+- [ ] calibre
+- [ ] dwl (Irmar)
+
+
 * REFILE
 ** TOADD [0/3] Mumford : Abelian varieties                        :REFERENCE:
-[2016-08-16 mar. 08:40]
+   [2016-08-16 mar. 08:40]
+
 
 - [ ] full
 - [ ] calibre
 - [ ] dwl (Irmar)
 
 Formule de la projection et "changement de base"
-
