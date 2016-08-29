@@ -181,16 +181,14 @@ http://arxiv.org/abs/1002.4321
 - Partie sur les structures de contact, lien avec Honda : fibré fondamental
 
 
-* TODO [0/3] Le Brun : Thickenings                                :REFERENCE:
+* TOADD [0/3] Le Brun : Thickenings                               :REFERENCE:
 [2016-08-12 ven. 15:16]
 
 - [ ] full
 - [ ] calibre
 - [ ] dwl (Irmar)
 
-
-* REFILE
-** TOADD [1/3] Mumford : Abelian varieties                        :REFERENCE:
+* TOADD [1/3] Mumford : Abelian varieties                         :REFERENCE:
    [2016-08-16 mar. 08:40]
 
 
@@ -209,14 +207,37 @@ Formule de la projection et "changement de base"
 }
 #+end_src
 
-* TOREAD Relative frolicher spectral sequence :SuiteSpectrale:Frolicher::REFERENCE:
+* TOREAD Relative Frolicher spectral sequence :SuiteSpectrale:Frolicher::REFERENCE:
 [2016-08-29 lun. 19:04]
 
-- /Period mappings with applications to symplectic complex spaces/ (http://cds.cern.ch/record/2112887?ln=bg)
+Application à l'étude de la suite spectrale de Fro relative sur $Z$.
+
+** /Period mappings with applications to symplectic complex spaces/ 
+(http://cds.cern.ch/record/2112887?ln=bg) 
+
+((pas terrible, parle du cas singulier))
 
 #+BEGIN_QUOTE
 The second part investigates the degeneration behavior of the relative Frölicher spectral sequence associated to a submersive morphism of complex manifolds.
 #+END_QUOTE
 
-- Application à l'étude de la suite spectrale de Fro relative sur $Z$.
+** /Mixed Hodge Structures/ Chap 10.4, Prop 10.29
+
+   #+BEGIN_SRC BIBTEX
+@book{9783540770152,
+  Author = {Christiaan Peters and Joseph H. M. Steenbrink},
+  Title = {Mixed Hodge Structures (Ergebnisse der Mathematik und ihrer Grenzgebiete. 3. Folge / A Series of Modern Surveys in Mathematics)},
+  Publisher = {Springer},
+  Year = {2008},
+  ISBN = {3540770151},
+  URL = {http://www.amazon.com/Structures-Ergebnisse-Mathematik-Grenzgebiete-Mathematics/dp/3540770151%3FSubscriptionId%3D0JYN1NVW651KCA56C102%26tag%3Dtechkie-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3D3540770151}
+}
+   #+END_SRC BIBTEX
+
+- [ ] full
+- [ ] calibre
+- [ ] dwl (Irmar)
+- [X] dwl (Windu)
+
+
 
