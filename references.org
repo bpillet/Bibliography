@@ -208,3 +208,15 @@ Formule de la projection et "changement de base"
   ISBN = {8185931860}
 }
 #+end_src
+
+* TOREAD Relative frolicher spectral sequence :SuiteSpectrale:Frolicher::REFERENCE:
+[2016-08-29 lun. 19:04]
+
+- /Period mappings with applications to symplectic complex spaces/ (http://cds.cern.ch/record/2112887?ln=bg)
+
+#+BEGIN_QUOTE
+The second part investigates the degeneration behavior of the relative Frölicher spectral sequence associated to a submersive morphism of complex manifolds.
+#+END_QUOTE
+
+- Application à l'étude de la suite spectrale de Fro relative sur $Z$.
+
