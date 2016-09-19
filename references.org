@@ -53,13 +53,13 @@ Appears in Collections:	Pure Mathematics publications
 - [X] full
 - [X] calibre
 
-* Campana cycles compacts
+* Campana cycles compacts                                           :ARCHIVE:
 
-** TOADD [1/2]  Espaces de twisteurs dont l'espace des cycles a ses composantes irréductibles compactes :REFERENCE:CALIBRE:FULLBIB:
+** DONE [3/3]  Espaces de twisteurs dont l'espace des cycles a ses composantes irréductibles compactes :REFERENCE:CALIBRE:FULLBIB:
  [2016-07-06 mer. 11:54]
 
  - [X] full
- - [ ] calibre
+ - [X] calibre
  - [X] Téléchargé (Irmar)
 
  *Ne traite pas directement du cas hyperkahlérien*
@@ -83,12 +83,12 @@ Appears in Collections:	Pure Mathematics publications
  }
  #+END_SRC
 
-** TOADD [2/3] Espace des twisteurs de classe $C$                 :REFERENCE:
+** DONE [3/3] Espace des twisteurs de classe $C$                  :REFERENCE:
  [2016-07-06 mer. 18:22]
 
 
  - [X] full
- - [ ] calibre
+ - [X] calibre
  - [X] Téléchargé (Irmar)
 
  Il prouve que $C$ n'est jamais compact. (Compact entraine $Z$ de classe C entraine $M$ conformément plate entraine $M$ sphère ou somme connexe de plans projectifs)
@@ -113,11 +113,11 @@ Appears in Collections:	Pure Mathematics publications
  #+END_SRC
 
 
-** TOADD [2/3] Cycle Spaces, Several complex variables VII        :REFERENCE:
+** DONE [3/3] Cycle Spaces, Several complex variables VII         :REFERENCE:
  [2016-07-06 mer. 12:03]
 
  - [X] full
- - [ ] calibre
+ - [X] calibre
  - [X] Téléchargé (Irmar)
 
 
