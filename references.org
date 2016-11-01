@@ -277,5 +277,31 @@ The second part investigates the degeneration behavior of the relative Fröliche
 - [ ] dwl (Irmar)
 - [X] dwl (Windu)
 
+* TOREAD  Algebraic Cycles and Homotopy Theory by H. Blaine Lawson, Jr.  :REFERENCE:
+[2016-11-01 mar. 10:38]
 
+
+/Algebraic Cycles and Homotopy Theory/
+H. Blaine Lawson, Jr.
+Annals of Mathematics
+Second Series, Vol. 129, No. 2 (Mar., 1989), pp. 253-291
+Published by: Annals of Mathematics
+DOI: 10.2307/1971448
+Stable URL: http://www.jstor.org/stable/1971448
+Page Count: 39
+
+#+BEGIN_SRC bibtex
+@article{LawsonCyclesHomotopy,
+ ISSN = {0003486X},
+ URL = {http://www.jstor.org/stable/1971448},
+ author = {H. Blaine Lawson},
+ journal = {Annals of Mathematics},
+ number = {2},
+ pages = {253-291},
+ publisher = {Annals of Mathematics},
+ title = {Algebraic Cycles and Homotopy Theory},
+ volume = {129},
+ year = {1989}
+}
+#+END_SRC
 
