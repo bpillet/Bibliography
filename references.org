@@ -310,3 +310,12 @@ Page Count: 39
 
 http://users.math.msu.edu/users/akbulut/
 
+* TOREAD [#A] Correspondence and cycle spaces: A result comparing their cohomologies :REFERENCE:
+[2016-12-06 mar. 08:58]
+
+https://publications.ias.edu/node/2635
+
+- [ ] DWL yoda
+- [ ] full.bib
+- [ ] 
+
