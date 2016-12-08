@@ -315,9 +315,9 @@ http://users.math.msu.edu/users/akbulut/
 
 https://publications.ias.edu/node/2635
 
-- [ ] DWL yoda
-- [ ] full.bib
-- [ ] 
+- [X] DWL yoda
+- [X] full.bib
+- [X] Calibre
 
 * TOREAD [#A] Special values of automorphic cohomology classes    :REFERENCE:
 [2016-12-06 mar. 09:00]
@@ -347,3 +347,7 @@ Abstract
 
 We study the complex geometry and coherent cohomology of nonclassicalMumford-Tate domains and their quotients by discrete groups. Our focus throughout is on the domains D which occur as open G(R)-orbits in the flag varieties for G=SU(2,1) and Sp(4), regarded as classifying spaces for Hodge structures of weight three. In the context provided by these basic examples, we formulate and illustrate the general method by which correspondence spaces W give rise to Penrose transforms between the cohomologies Hq(D,L) of distinct such orbits with coefficients in homogeneous line bundles. Turning to the quotients, representation theory allows us to define subspaces of Hq(Γ∖D,L) called cuspidal automorphic cohomology, which via the Penrose transform are endowed in some cases with an arithmetic structure. We demonstrate that the arithmetic classes assume arithmetic values at CM points in W, up to a transcendental factor that depends only on the CM type. The representations related to this result are certain holomorphic discrete series representations of G(R). We conclude with a discussion of how our framework may also be used to study the K-types and n-cohomology of (non-holomorphic) totally degenerate limits of discrete series, and to give an alternative treatment of the main result of Carayol (1998). These especially interesting connections will be further developed in future works. 
 
+
+- [X] DWL yoda
+- [X] full.bib
+- [X] Calibre
