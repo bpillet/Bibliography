@@ -352,7 +352,7 @@ We study the complex geometry and coherent cohomology of nonclassicalMumford-Tat
 - [X] full.bib
 - [X] Calibre
 
-* TOADD [2/3] Eastwood - Gindikin - Wong :REFERENCE:
+* TOADD [2/3] Eastwood - Gindikin - Wong                          :REFERENCE:
 [2016-12-21 mer. 09:30]
 
 - [X] full
@@ -403,5 +403,21 @@ MRREVIEWER = {Sergey Merkulov},
 }
 #+END_SRC
 
-		
+* TOADD [0/3] Atiyah : Gauge theory                               :REFERENCE:
+[2017-07-10 lun. 09:37]
+
+
+Atiyah, Michael F. (1988e), Collected works. Vol. 5 Gauge theories, Oxford Science Publications, The Clarendon Press Oxford University Press, ISBN 978-0-19-853279-8, MR 951892.
+
+- Parle de la classification HK des instantons
+- Par des correspondances entre espaces de modules :\\
+  #+BEGIN_QUOTE Wikipedia : Atiyah
+  Atiyah showed[99] that instantons in 4 dimensions can be identified with instantons in 2 dimensions, which are much easier to handle. There is of course a catch: in going from 4 to 2 dimensions the structure group of the gauge theory changes from a finite-dimensional group to an infinite-dimensional loop group. This gives another example where the moduli spaces of solutions of two apparently unrelated nonlinear partial differential equations turn out to be essentially the same.
+  #+END_QUOTE
+
+
+
+- [ ] full
+- [ ] calibre
+- [ ] dwl (Irmar)
 
