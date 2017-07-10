@@ -138,12 +138,12 @@ Appears in Collections:	Pure Mathematics publications
  }
  #+END_SRC
 
-* TOADD [1/3] Thèse de Guillaume Deschamps           :REFERENCE:
+* DONE [3/3] Thèse de Guillaume Deschamps :REFERENCE:
 [2016-07-19 mar. 22:53]
 
 - [X] full
-- [ ] calibre
-- [ ] dwl (Irmar)
+- [X] calibre
+- [X] dwl (Irmar)
 
 * DONE [2/2] Lawson Michelsohn /Spin Geometry/            :REFERENCE:ARCHIVE:
 [2016-07-04 lun. 18:03]
@@ -310,7 +310,7 @@ Page Count: 39
 
 http://users.math.msu.edu/users/akbulut/
 
-* TOREAD [#A] Correspondence and cycle spaces: A result comparing their cohomologies :REFERENCE:
+* DONE Correspondence and cycle spaces: A result comparing their cohomologies :REFERENCE:
 [2016-12-06 mar. 08:58]
 
 https://publications.ias.edu/node/2635
@@ -352,11 +352,12 @@ We study the complex geometry and coherent cohomology of nonclassicalMumford-Tat
 - [X] full.bib
 - [X] Calibre
 
-* TOADD [2/3] Eastwood - Gindikin - Wong                          :REFERENCE:
+* DONE [3/3] Eastwood - Gindikin - Wong :REFERENCE:
+
 [2016-12-21 mer. 09:30]
 
 - [X] full
-- [ ] calibre
+- [X] calibre
 - [X] dwl (Irmar)
 
 M.Eastwood,S.Gindikin, H.-W.Wong, Holomorphic realization of ∂-cohomology and
