@@ -2,16 +2,65 @@
 #+TODO: TOADD | DONE
 #+TODO: TOREAD | DONE
 
-* On the Atiyah-Hitchin-Drinfeld-Manin Vanishing Theorem for Cohomology Groups of Instanton Bundles :FULLBIB:REFERENCE:DROPBOX:
+
+* MADELHIS
+
+** Per Martin-Löf : On the Meanings of the Logical Constants and the Justifications of the Logical Laws
+Nordic Journal of Philosophical Logic, 1 1 (1996) 11-60
+
+Per, Martin-Löf. « On the Meanings of the Logical Constants and the Justifications of the Logical Laws ». Nordic Journal of Philosophical Logic, vol. 1, nᵒ 1, 1996.
+
+#+begin_src bibtex
+@article{PML96,
+title={On the Meanings of the Logical Constants and the Justifications of the Logical Laws},
+volume={1},
+number={1},
+journal={Nordic Journal of Philosophical Logic},
+author={Per, Martin-Löf},
+year={1996} }
+#+end_src
+
+** TOADD Awodey et al. : Voevodsky's Univalence Axiom in Homotopy Type Theory
+
+#+begin_src bibtex
+@article{APW13,
+title={Voevodsky’s Univalence Axiom in Homotopy Type Theory},
+volume={60},
+ISSN={0002-9920, 1088-9477},
+url={http://www.ams.org/jourcgi/jour-getitem?pii=noti1043},
+DOI={10.1090/noti1043},
+number={09},
+journal={Notices of the American Mathematical Society},
+author={Awodey, Steve and Pelayo, Álvaro and Warren, Michael A.},
+year={2013},
+month=oct,
+pages={1164},
+language={en} }
+#+end_src
+
+** HoTT
+
+#+begin_src bibtex
+@Book{hottbook,
+  author =    {The {Univalent Foundations Program}},
+  title =     {Homotopy Type Theory: Univalent Foundations of Mathematics},
+  publisher = {\url{https://homotopytypetheory.org/book}},
+  address =   {Institute for Advanced Study},
+  year =      2013}
+#+end_src
+
+* Thèse
+
+** On the Atiyah-Hitchin-Drinfeld-Manin Vanishing Theorem for Cohomology Groups of Instanton Bundles :FULLBIB:REFERENCE:DROPBOX:
 [2016-05-20 ven. 09:35]
-** Author 
+*** Author 
    J. H. Rawnsley
-** Liens
+*** Liens
    Dropbox
-** Sujet
+*** Sujet
    Expression en coordonnées de la fibration twistorielle $\Pro^3 \to \S^4$
 
-* TOADD Eastwood : Some remarks on nonabelian sheaf cohomology :REFERENCE:CALIBRE:FULLBIB:
+** TOADD Eastwood : Some remarks on nonabelian sheaf cohomology :REFERENCE:CALIBRE:FULLBIB:
 [2016-06-06 lun. 17:47]
 
 - Introuvable en ligne
@@ -49,13 +98,13 @@ Appears in Collections:	Pure Mathematics publications
 
 #+END_SRC
 
-* DONE Kodaira : Completude family submanifolds  [2/2] :REFERENCE:CALIBRE:FULLBIB:ARCHIVE:
+** DONE Kodaira : Completude family submanifolds  [2/2] :REFERENCE:CALIBRE:FULLBIB:ARCHIVE:
 - [X] full
 - [X] calibre
 
-* Campana cycles compacts                                           :ARCHIVE:
+** Campana cycles compacts                              :ARCHIVE:
 
-** DONE [3/3]  Espaces de twisteurs dont l'espace des cycles a ses composantes irréductibles compactes :REFERENCE:CALIBRE:FULLBIB:
+*** DONE [3/3]  Espaces de twisteurs dont l'espace des cycles a ses composantes irréductibles compactes :REFERENCE:CALIBRE:FULLBIB:
  [2016-07-06 mer. 11:54]
 
  - [X] full
@@ -83,7 +132,7 @@ Appears in Collections:	Pure Mathematics publications
  }
  #+END_SRC
 
-** DONE [3/3] Espace des twisteurs de classe $C$                  :REFERENCE:
+*** DONE [3/3] Espace des twisteurs de classe $C$     :REFERENCE:
  [2016-07-06 mer. 18:22]
 
 
@@ -113,7 +162,7 @@ Appears in Collections:	Pure Mathematics publications
  #+END_SRC
 
 
-** DONE [3/3] Cycle Spaces, Several complex variables VII         :REFERENCE:
+*** DONE [3/3] Cycle Spaces, Several complex variables VII :REFERENCE:
  [2016-07-06 mer. 12:03]
 
  - [X] full
@@ -138,31 +187,31 @@ Appears in Collections:	Pure Mathematics publications
  }
  #+END_SRC
 
-* DONE [3/3] Thèse de Guillaume Deschamps :REFERENCE:
+** DONE [3/3] Thèse de Guillaume Deschamps            :REFERENCE:
 [2016-07-19 mar. 22:53]
 
 - [X] full
 - [X] calibre
 - [X] dwl (Irmar)
 
-* DONE [2/2] Lawson Michelsohn /Spin Geometry/            :REFERENCE:ARCHIVE:
+** DONE [2/2] Lawson Michelsohn /Spin Geometry/ :REFERENCE:ARCHIVE:
 [2016-07-04 lun. 18:03]
 
 - [X] full
 - [X] calibre
 
-* TOADD [0/0] EASTWOOD : De Rham symplectique                     :REFERENCE:
+** TOADD [0/0] EASTWOOD : De Rham symplectique        :REFERENCE:
 [2016-07-07 jeu. 12:27]
 
 - [ ] full
 - [ ] calibre
 - [ ] Téléchargé (IRMAR) ?
 
-** Blabla
+*** Blabla
 
 Le complexe de DR sur une variété symplectique réelle se découpe en 2 complexes de taille $n$, qu'on recolle par un opérateur différentiel d'ordre $2$.
 
-** Eastwood Slovàk
+*** Eastwood Slovàk
 
 MR2103078 Reviewed Eastwood, Michael; Slovák, Jan Preferred parameterisations on homogeneous curves. Comment. Math. Univ. Carolin. 45 (2004), no. 4, 597–606. (Reviewer: A. Rod Gover) 53C30 (17B66)
 PDF Clipboard Journal Article
@@ -170,7 +219,7 @@ PDF Clipboard Journal Article
 MR1483772 Reviewed Eastwood, Michael; Slovák, Jan Semiholonomic Verma modules. J. Algebra 197 (1997), no. 2, 424–448. (Reviewer: William M. McGovern) 22E46 (17B35)
 PDF Clipboard Journal Article 
 
-** Eastwood Goldschmidt
+*** Eastwood Goldschmidt
 
 #+BEGIN_SRC BIBTEX
 @article {MR3031862,
@@ -191,7 +240,7 @@ MRREVIEWER = {Andreas Cap},
 }
 #+END_SRC
 
-* TOREAD BEAUVILLE : Holomorphic symplectic geometry: a problem list :READ:REFERENCE:
+** TOREAD BEAUVILLE : Holomorphic symplectic geometry: a problem list :READ:REFERENCE:
 [2016-07-11 lun. 11:27]
 
 http://arxiv.org/abs/1002.4321
@@ -199,7 +248,7 @@ http://arxiv.org/abs/1002.4321
 - Partie sur les structures de contact, lien avec Honda : fibré fondamental
 
 
-* DONE [3/3] Le Brun : Thickenings                        :REFERENCE:ARCHIVE:
+** DONE [3/3] Le Brun : Thickenings           :REFERENCE:ARCHIVE:
 [2016-08-12 ven. 15:16]
 
 - [X] full
@@ -226,7 +275,7 @@ MRREVIEWER = {Nicholas Buchdahl},
 }
 #+END_SRC
 
-* DONE [3/3] Mumford : Abelian varieties                  :REFERENCE:ARCHIVE:
+** DONE [3/3] Mumford : Abelian varieties     :REFERENCE:ARCHIVE:
    [2016-08-16 mar. 08:40]
 
 
@@ -245,12 +294,12 @@ Formule de la projection et "changement de base"
 }
 #+end_src
 
-* TOREAD Relative Frolicher spectral sequence :SuiteSpectrale:Frolicher::REFERENCE:
+** TOREAD Relative Frolicher spectral sequence :SuiteSpectrale:Frolicher::REFERENCE:
 [2016-08-29 lun. 19:04]
 
 Application à l'étude de la suite spectrale de Fro relative sur $Z$.
 
-** /Period mappings with applications to symplectic complex spaces/ 
+*** /Period mappings with applications to symplectic complex spaces/ 
 (http://cds.cern.ch/record/2112887?ln=bg) 
 
 ((pas terrible, parle du cas singulier))
@@ -259,7 +308,7 @@ Application à l'étude de la suite spectrale de Fro relative sur $Z$.
 The second part investigates the degeneration behavior of the relative Frölicher spectral sequence associated to a submersive morphism of complex manifolds.
 #+END_QUOTE
 
-** /Mixed Hodge Structures/ Chap 10.4, Prop 10.29
+*** /Mixed Hodge Structures/ Chap 10.4, Prop 10.29
 
    #+BEGIN_SRC BIBTEX
 @book{9783540770152,
@@ -277,7 +326,7 @@ The second part investigates the degeneration behavior of the relative Fröliche
 - [ ] dwl (Irmar)
 - [X] dwl (Windu)
 
-* TOREAD  Algebraic Cycles and Homotopy Theory by H. Blaine Lawson, Jr.  :REFERENCE:
+** TOREAD  Algebraic Cycles and Homotopy Theory by H. Blaine Lawson, Jr. :REFERENCE:
 [2016-11-01 mar. 10:38]
 
 
@@ -305,12 +354,12 @@ Page Count: 39
 }
 #+END_SRC
 
-* TOREAD S. Akbulut 4-Manifolds                                   :REFERENCE:
+** TOREAD S. Akbulut 4-Manifolds                      :REFERENCE:
 [2016-11-07 lun. 15:36]
 
 http://users.math.msu.edu/users/akbulut/
 
-* DONE Correspondence and cycle spaces: A result comparing their cohomologies :REFERENCE:
+** DONE Correspondence and cycle spaces: A result comparing their cohomologies :REFERENCE:
 [2016-12-06 mar. 08:58]
 
 https://publications.ias.edu/node/2635
@@ -319,7 +368,7 @@ https://publications.ias.edu/node/2635
 - [X] full.bib
 - [X] Calibre
 
-* TOREAD [#A] Special values of automorphic cohomology classes    :REFERENCE:
+** TOREAD Special values of automorphic cohomology classes :REFERENCE:
 [2016-12-06 mar. 09:00]
 
 
@@ -352,7 +401,7 @@ We study the complex geometry and coherent cohomology of nonclassicalMumford-Tat
 - [X] full.bib
 - [X] Calibre
 
-* DONE [3/3] Eastwood - Gindikin - Wong :REFERENCE:
+** DONE [3/3] Eastwood - Gindikin - Wong              :REFERENCE:
 
 [2016-12-21 mer. 09:30]
 
@@ -404,7 +453,7 @@ MRREVIEWER = {Sergey Merkulov},
 }
 #+END_SRC
 
-* TOADD [0/3] Atiyah : Gauge theory                               :REFERENCE:
+** TOADD [0/3] Atiyah : Gauge theory                  :REFERENCE:
 [2017-07-10 lun. 09:37]
 
 
