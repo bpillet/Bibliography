@@ -3,6 +3,12 @@
 #+TODO: TOREAD | DONE
 
 
+* TOOLS
+
+** cite wikipedia
+
+[[https://en.wikipedia.org/w/index.php?title=Special:CiteThisPage&page=LaTeX&id=413720397][Wikipedia tool for citing its articles]]. Export bibtex.
+
 * MADELHIS
 
 ** Per Martin-Löf : On the Meanings of the Logical Constants and the Justifications of the Logical Laws
@@ -47,6 +53,46 @@ language={en} }
   publisher = {\url{https://homotopytypetheory.org/book}},
   address =   {Institute for Advanced Study},
   year =      2013}
+#+end_src
+
+** Mac Lane
+#+begin_src bibtex
+@book{MacLane_2013,
+address={New York, NY},
+series={Graduate Texts in Mathematics Ser.},
+title={Categories for the Working Mathematician.},
+ISBN={9781461298397},
+publisher={Springer},
+author={MacLane, Saunders},
+year={2013},
+collection={Graduate Texts in Mathematics Ser.},
+language={eng} }
+#+end_src
+
+** Riehl-Verity
+
+#+begin_src bibtex
+@book{Riehl_Verity_2022,
+address={Cambridge ; New York, NY},
+title={Elements of [infinity]-category theory},
+ISBN={9781108936880},
+callNumber={QA169},
+publisher={Cambridge University Press},
+author={Riehl, Emily and Verity, Dominic},
+year={2022} }
+#+end_src
+
+** nlab : categorification
+
+#+begin_src bibtex
+@misc{nlab,
+  author = {{nLab authors}},
+  title = {vertical categorification},
+  howpublished = {\url{https://ncatlab.org/nlab/show/vertical+categorification}},
+  note = {\href{https://ncatlab.org/nlab/revision/vertical+categorification/61}{Revision 61}},
+  month = mar,
+  year = 2024
+}
 #+end_src
 
 * Thèse
